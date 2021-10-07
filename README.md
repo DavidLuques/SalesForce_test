@@ -38,7 +38,7 @@ La key ,Content-Type dice el tipo de contenido devuelto al cliente
 
 EJERCICIO3
 
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_1.png)
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
