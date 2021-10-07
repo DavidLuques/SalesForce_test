@@ -38,7 +38,25 @@ La key ,Content-Type dice el tipo de contenido devuelto al cliente
 
 EJERCICIO3
 
+REQUEST GET A LA URL
+
 ![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_1.png)
+
+2_REALIZO EL POST A LA URL CON BODY RAW EN JSON
+
+![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_2.png)
+
+3_REALIZO UN GET DENUEVO A LA URL
+
+![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_3.png)
+
+// La diferencia Percibida es que al producirse el post se inserto nuevamente el usuario pablo mediante el uso de json viajando por POST , y al volver a consultar ya tenemos a pablo guardado en la DB.
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
 Comenzando 🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
