@@ -1,4 +1,4 @@
-RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+          RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
 
 EJERCICIO2
 
@@ -52,8 +52,12 @@ REQUEST GET A LA URL
 
 // La diferencia Percibida es que al producirse el post se inserto nuevamente el usuario pablo mediante el uso de json viajando por POST , y al volver a consultar ya tenemos a pablo guardado en la DB.
 
+
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
+EJERCICIO4
+link de perfil en SalesForce:
+<a href="https://trailblazer.me/id/daluques" class="btn btn-suces" target="_blank">Ver online</a>
 
 
 
