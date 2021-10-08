@@ -1,6 +1,7 @@
-      <h1 align="center">
-     <br>
-     RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+   <h1 align="center">
+  
+   RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+       <br> <br>
    </h1> 
 
 1 \_http (hipertext transfer Protocol) es un protocolo de transferencia de datos , donde un cliente realiza una "peticion" y un servidor envia le Respuesta
