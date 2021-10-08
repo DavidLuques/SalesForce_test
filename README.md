@@ -114,6 +114,6 @@ Un case es un feedback,pregunta ,problema planteado por un cliente , donde son r
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
 
-# `EJERCICIO 6`
+# `EJERCICIO 6` aqui
 
 
