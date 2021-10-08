@@ -70,7 +70,7 @@ link de perfil en SalesForce:
 ```sh
 $ npm start hola que tal aun modificando aqui :P
 ```
-
+![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/diagrama1.png)
 
 1.	Lead:
 
