@@ -40,7 +40,7 @@ La key ,Content-Type dice el tipo de contenido devuelto al cliente
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-`# EJERCICIO 3`
+# `EJERCICIO 3`
 
 REQUEST GET A LA URL 👉
 
@@ -59,13 +59,13 @@ REQUEST GET A LA URL 👉
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-`# EJERCICIO 4`
+# `EJERCICIO 4`
 link de perfil en SalesForce:
 <a href="https://trailblazer.me/id/daluques" class="btn btn-suces" target="_blank">Ver online</a>
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
-` EJERCICIO 5`
+# `EJERCICIO 5`
 
 ```sh
 $ npm start hola que tal aun modificando aqui :P
