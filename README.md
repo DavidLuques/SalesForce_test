@@ -112,6 +112,7 @@ Un case es un feedback,pregunta ,problema planteado por un cliente , donde son r
 10.	Article:
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
-Los campos enumerarlos a través de una lista de texto en el Readme y las relaciones a través de un diagrama UML simple realizado con Drawio.
+
+# `EJERCICIO 6`
 
 
