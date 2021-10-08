@@ -5,9 +5,10 @@
    </h1> 
 
 `# EJERCICIO 2`
-1 \_http (hipertext transfer Protocol) es un protocolo de transferencia de datos , donde un cliente realiza una "peticion" y un servidor envia le Respuesta
 
-2_los verbos 'http' mas conocidos son post y get , son metodos de peticion para ultilizar en un determinado recurso
+1 _http (hipertext transfer Protocol) es un protocolo de transferencia de datos , donde un cliente realiza una "peticion" y un servidor envia le Respuesta
+
+2_los verbos http mas conocidos son post y get , son metodos de peticion para ultilizar en un determinado recurso
 
 3_un request es una peticion al servidor del cliente (navegador) en la barra de direcciones HTTP, URL y version, response es la respuesta de este.
 
