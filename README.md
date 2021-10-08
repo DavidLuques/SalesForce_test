@@ -38,15 +38,15 @@ La key ,Content-Type dice el tipo de contenido devuelto al cliente
 
 # EJERCICIO 3
 
-REQUEST GET A LA URL
+REQUEST GET A LA URL 👉
 
 ![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_1.png)
 
-2_REALIZO EL POST A LA URL CON BODY RAW EN JSON
+2_REALIZO EL POST A LA URL CON BODY RAW EN JSON 👉
 
 ![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_2.png)
 
-3_REALIZO UN GET DENUEVO A LA URL
+3_REALIZO UN GET DENUEVO A LA URL 👉
 
 ![Image text](https://github.com/DavidLuques/SalesForce_test/blob/main/images/img_3.png)
 
