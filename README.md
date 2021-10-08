@@ -1,4 +1,4 @@
-                                    RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+    <h1 align="center"> RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀</h1>
 
 # EJERCICIO 2
 
