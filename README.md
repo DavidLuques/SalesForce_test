@@ -110,6 +110,7 @@ Los activos representan productos específicos que han comprado clientes, Se utl
 Un case es un feedback,pregunta ,problema planteado por un cliente , donde son requeridas acciones , estas se utilizan para retroalimentar y mejorar el proceso de venta .
 
 10.	Article:
+11.	
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
 
