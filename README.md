@@ -70,27 +70,46 @@ link de perfil en SalesForce:
 ```sh
 $ npm start hola que tal aun modificando aqui :P
 ```
-Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
+
 
 1.	Lead:
+
 Es un potencial cliente, por ende una oportunidad de negocio que es necesario atender bajo varios recursos a fin de que sea un cliente, lead es una persona que solicita informacion y con cierto interes, aunque todavia es un contacto no calificado, demuestra incertidumbrey dudas aun por resolver.
 
 2.	Account:
+
 utilizadas para almacenar informacion de clientes o individuos con lo cual Realizas negocios. hay 2 tipos de cuentas : de Empresa/negocio que guarda informacion de las companias, y personal que almacena informacion acerca de personas individuales, es la organizacion/individuo a la que planeas vender.
 
 
-3.	Contact
+3.	Contact:
+
 Asociadas usualmente a Account, pueden tambien estar asociadas a otros registros como opportunity y mas , esta nos permite una manipulacion mas versatil , se les puede asignar ciertos contenidos compartidos y ciertas jerarquias, es la persona 'calificada' para realizar negocios contigo
 
-4.	Opportunity
+4.	Opportunity:
+
  No es una persona ni una entidad comercial, Es una posible venta futura para una cuenta en la que desea trabajar o realizar un seguimiento, las probabilidades son altas , son utilizados para predecir las ventas 
 
-5.	Product
-6.	PriceBook
-7.	Quote
-8.	Asset
-9.	Case
-10.	Article
+5.	Product:
+
+productos son cosas que generan ingresos a la compania, sin importar si son o no tangibles
+
+6.	PriceBook:
+
+Es una lista de productos y sus precios, pueden ser lista de precio standard y lista de precios costomizado, util por ejemplo para diferentes segmentos mercados , o cuando los precios varian de clientes Nacionales a Internacionales.
+
+7.	Quote:
+
+Son los precios propuestos por los producto/servicios ofrecido por la empresa, son creadas a partir de una oportunidad, donde cada oportunidad pueden tener multiples cotizaciones (quotes)
+
+8.	Asset:
+
+Los activos representan productos específicos que han comprado clientes, Se utliza activos para almacenar información sobre los productos de clientes, se pueden trackear los productos vendidos almacenando informacion
+
+9.	Case:
+
+Un case es un feedback,pregunta ,problema planteado por un cliente , donde son requeridas acciones , estas se utilizan para retroalimentar y mejorar el proceso de venta .
+
+10.	Article:
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
 Los campos enumerarlos a través de una lista de texto en el Readme y las relaciones a través de un diagrama UML simple realizado con Drawio.
