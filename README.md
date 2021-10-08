@@ -1,4 +1,4 @@
-                                                RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+                                    RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
 
 # EJERCICIO 2
 
