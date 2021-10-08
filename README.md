@@ -1,6 +1,6 @@
-         #RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
+        #RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀
 
-#EJERCICIO 2
+# EJERCICIO 2
 
 1 \_http (hipertext transfer Protocol) es un protocolo de transferencia de datos , donde un cliente realiza una "peticion" y un servidor envia le Respuesta
 
