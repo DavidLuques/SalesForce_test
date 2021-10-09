@@ -114,6 +114,60 @@ Un case es un feedback,pregunta ,problema planteado por un cliente , donde son r
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
 
-# `EJERCICIO 6` aqui
+# `EJERCICIO 6` 
+
+
+
+# `EJERCICIO 7` 
+
+
+A.	¿Qué es Salesforce?
+
+
+
+B.	¿Qué es Sales Cloud?
+
+
+
+C.	¿Qué es Service Cloud?
+
+
+
+D.	¿Qué es Health Cloud?
+E.	¿Qué es Marketing Cloud?
+Funcionalidades de Salesforce
+A.	¿Qué es un RecordType?
+B.	¿Qué es un ReportType?
+C.	¿Qué es un Page Layout?
+D.	¿Qué es un Compact Layout?
+E.	¿Qué es un Perfil?
+F.	¿Qué es un Rol?
+G.	¿Qué es un Validation Rule?
+H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
+I.	¿Qué es un Sandbox?
+J.	¿Qué es un ChangeSet?
+K.	¿Para qué sirve el import Wizard de Salesforce?
+L.	¿Para qué sirve la funcionalidad Web to Lead?
+M.	¿Para qué sirve la funcionalidad Web to Case?
+N.	¿Para qué sirve la funcionalidad Omnichannel?
+O.	¿Para qué sirve la funcionalidad Chatter?
+Conceptos generales
+A.	¿Qué significa SaaS? 
+B.	¿Salesforce es Saas?
+C.	¿Qué significa que una solución sea Cloud?
+D.	¿Qué significa que una solución sea On-Premise?
+E.	¿Que es un pipeline de ventas?
+F.	¿Que es un funnel de ventas?
+G.	¿Qué significa Customer Experience?
+H.	¿Qué significa omnicanalidad?
+I.	¿Qué significa que un negocio sea B2B?
+J.	¿Qué significa que un negocio sea B2C?
+K.	¿Qué es un KPI?
+L.	¿Qué es una API y en qué se diferencia de una Rest API?
+M.	¿Qué es un Proceso Batch?
+N.	¿Qué es Kanban?
+O.	¿Qué es un ERP? 
+P.	¿Salesforce es un ERP?
+
 
 
