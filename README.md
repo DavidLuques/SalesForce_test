@@ -113,12 +113,16 @@ Un case es un feedback,pregunta ,problema planteado por un cliente , donde son r
 
 Los articles son documentos con informacion como porejemplo como restaurar un producto , o las preguntas mas frecuentes. Los articulos son publicados y se pueden usar tanto interna como externamente, compartir en Sitios web , etc..
 
+///////////////////////////////////////////////////////////////////////////////////////////////
 
 # `EJERCICIO 6` 
 
 
 
+///////////////////////////////////////////////////////////////////////////////////////////////
+
 # `EJERCICIO 7` 
+
 `Soluciones De SalesForce`
 
 A.	¿Qué es Salesforce?
@@ -141,39 +145,138 @@ E.	¿Qué es Marketing Cloud?
 
 Es una plataforma que centraliza las comunicaciones con los clientes sobre multiples canales, Compuesta por varias Subclouds como :Mobile Studio , Email Studio,etc...  permite la recoleccion de datos de clientes a fines estadisticos de muchos lugares y la centralizacion de esos datos ,tambien permite Automatizaciones en cada Subcloud 
 
-Funcionalidades de Salesforce
+`Funcionalidades de Salesforce`
+
 A.	¿Qué es un RecordType?
+
+son basicamente diferentes registros ofrecidos a los usuarios que seran diferentes en su disenio, valores de lista de seleccion, etc..
+
 B.	¿Qué es un ReportType?
+
+Actua como una plantilla que facilita la confeccion de un reporte, determina cuales campos y registros estaran disponibles para la creacion del reporte basado en la relacion entre el objeto primario y sus objetos relacionados
+
 C.	¿Qué es un Page Layout?
+
+Los disenios de pagina controlan : disenio , organizacion de campos,botones, determinan que campos son o no visibles , lectura obligatoria 
+
 D.	¿Qué es un Compact Layout?
+
+compact Layout controlan los campos que aparecen en el encabezado de pagina ,se pueden poner hasta 10 por objeto , vienen predeterminados con la opcion de agregar/quitar .
+
 E.	¿Qué es un Perfil?
+
+Los perfiles definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación. existen perfiles estandar aunque se pueden crear otros 
+
 F.	¿Qué es un Rol?
+
+los roles controlan la visibilidad que tendra un usuario sobre los datos de su organizacion, mientras mayor sea la visibiliada  tambien mayor sera su jerarquia. 
+
 G.	¿Qué es un Validation Rule?
+
+es la regla de validacion que asegura que los datos que ingrase un usuario cumpla la "norma especifica propuesta" antes de guardar el registro.
+
 H.	¿Qué diferencia hay entre una relación Master Detail y Lookup?
+
+La diferencia es que la realacion master-detail es una relacion donde detail tiene "herencia" del master , es decir tiene una fuerta depandencia , es necesario indicarle cual es el master , si se elimina el master , tambien desaparcec el Detail , se pueden crar hasta 2 master  en 1 objeto.  En cambio Lookup  crea una relacion entre 2 objetos, si eliminamos alguno de los 2 objetos el otro no sera eliminado , no tiene una relacion jerarquica como la anterior.
+
+
 I.	¿Qué es un Sandbox?
+
+es una copia de la organizacion en un entorno aislado para pruebas , capacitacion. No estan en produccion por lo cual su modificacion no afectara en produccion
+
 J.	¿Qué es un ChangeSet?
+
+Es un conjunto de cmabios para enviar desde una organizacion de salesforce a otra , por ejemplo de un sandbox pasarla a produccion .
+
 K.	¿Para qué sirve el import Wizard de Salesforce?
+
+Es para la importacion de datos como objetos , objetos customizados , permite la importacion de 50.000 records a la vez
+
 L.	¿Para qué sirve la funcionalidad Web to Lead?
+
+Sirve para canalizar los visitantes y convertirlos en clientes potenciales a travez de formularios donde ingresan datos de ellos e intereses quizas a cambio de un webinar, pdf, etc..
+
+
 M.	¿Para qué sirve la funcionalidad Web to Case?
+
+sirve para la recopilacion de solicitudes de asistencia de clientes desde el sitio web de la organizacion , ayuda a la organizacion a responder mas rapidamente por parte del equipo de soporte.
+
 N.	¿Para qué sirve la funcionalidad Omnichannel?
+
+sirve para relacionarse con un cliente a travez de un canal y tenga la capacidad de finalizar y mantener en otros canales, busca unificar todos los canales de la empresa en uno solo a fin de mejorar la practicidad.
+
 O.	¿Para qué sirve la funcionalidad Chatter?
-Conceptos generales
+
+Sirve para trabajar juntos con multiples usuarios en tiempo real compartiendo informacion , permitiendo la comunicacion, permite la realizacion de seguimiento de personas , grupos , temas , en salesforce cuenta con una aplicacion mobile.
+
+
+`Conceptos generales`
+
 A.	¿Qué significa SaaS? 
+
+
+
 B.	¿Salesforce es Saas?
+
+
+
 C.	¿Qué significa que una solución sea Cloud?
+
+
+
 D.	¿Qué significa que una solución sea On-Premise?
+
+
+
 E.	¿Que es un pipeline de ventas?
+
+
+
 F.	¿Que es un funnel de ventas?
+
+
+
 G.	¿Qué significa Customer Experience?
+
+
+
 H.	¿Qué significa omnicanalidad?
+
+
+
 I.	¿Qué significa que un negocio sea B2B?
+
+
+
 J.	¿Qué significa que un negocio sea B2C?
+
+
+
 K.	¿Qué es un KPI?
+
+
+
 L.	¿Qué es una API y en qué se diferencia de una Rest API?
+
+
+
 M.	¿Qué es un Proceso Batch?
+
+
+
 N.	¿Qué es Kanban?
+
+
+
 O.	¿Qué es un ERP? 
+
+
+
 P.	¿Salesforce es un ERP?
 
 
 
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////
