@@ -119,22 +119,28 @@ Los articles son documentos con informacion como porejemplo como restaurar un pr
 
 
 # `EJERCICIO 7` 
-
+`Soluciones De SalesForce`
 
 A.	¿Qué es Salesforce?
 
-
+Sales force es un sistema CMR (custom Managment Relationship), ayuda a gestionar mejorando relaciones comerciales con Clientes y Potenciales clientes, Optimiza procesos y mejora la rentabilidad , permite conectar con Clientes es un sistema basado en la nube , permite la suspervision de actividades de la empresa, y la Recopilacion de datos  para detectar oportunidades y mas . Contiene Varios modulos como : SalesClod , Service Cluod,Marketing Cloud , etc...
 
 B.	¿Qué es Sales Cloud?
 
-
+Sales Cloud es una aplicacion basada en la nube usada para companias enfocadas en potenciales clientes, ventas , oportunidades, fidelizar clientes , se orienta mas a las ventas o potenciales clientes : Web-toLead
 
 C.	¿Qué es Service Cloud?
 
-
+Service Cloud incluye todo lo que sales Cloud puede ofrecer y se extiende , permite automatizar proceso de servicios,los usuarios estan mas centrados al servicio se orienta mas a los casos: Web-toCase , es una diferente licencia a la de Sales Cloud
 
 D.	¿Qué es Health Cloud?
+
+Healt Cloud es la plataforma orientada a la relacion medico-Paciente , Reune informacion variada y de Distintas fuentes aportando una vision amplia de cada paciente , logrando una atencion mss rapida y personalizada ,permite la gestion de los datos clinicos y el acceso en tiempo real . Los pacientes pueden utilizar tambien la plataforma obteniendo informacion y/o rellenando formularios 
+
 E.	¿Qué es Marketing Cloud?
+
+Es una plataforma que centraliza las comunicaciones con los clientes sobre multiples canales, Compuesta por varias Subclouds como :Mobile Studio , Email Studio,etc...  permite la recoleccion de datos de clientes a fines estadisticos de muchos lugares y la centralizacion de esos datos ,tambien permite Automatizaciones en cada Subcloud 
+
 Funcionalidades de Salesforce
 A.	¿Qué es un RecordType?
 B.	¿Qué es un ReportType?
