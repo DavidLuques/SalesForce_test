@@ -214,43 +214,43 @@ Sirve para trabajar juntos con multiples usuarios en tiempo real compartiendo in
 
 A.	¿Qué significa SaaS? 
 
-
+El acronomo SaaS (Software as a service) es un modelo de negocio de pago en forma de suscripcion por lo gral donde el proveedor de servicios en la nube se encarga de todo lo relacionado al manejo de Software y hadware , garantizando la seguridad y disponibilidad de la aplicacion y sus datos. es una Ventaja por que permite la facil y rapida puesta en marcha  con un pago minimo.
 
 B.	¿Salesforce es Saas?
 
-
+SalesForce es Saas ya que ofrece tanto el almacentamiento como la gestion en la nube garantizando su correcto funcionamiento , y lo respectivo a su implementacion .
 
 C.	¿Qué significa que una solución sea Cloud?
 
-
+Una solucion cloud, cloud computing es la contratacion de servicios que en oposicion a on-premise esta se aloja en la nube ,por lo cual no se requiere un equipo TI para su mantenimiento.
 
 D.	¿Qué significa que una solución sea On-Premise?
 
-
+Basicamente trata de que la empresa sea la responsable de la seguridad, disponibilidad, y gestion del Software, por lo cual la empresa debe contar con un Derpartamento de sistemas que gestione la ingfraestructura. La inversion inicial es mayor
 
 E.	¿Que es un pipeline de ventas?
 
-
+Es una herramienta de Gestion de ventas para observar las etapas de ventas en ciclos medios o largos, es el seguimiento cercano de las etapas de la venta tales como : la captacion del cliente, la prospeccion, propuesta ,el cierre y las posventa.  el pipeline son las acciones realizadas para convertir un Lead en un Cliente.
 
 F.	¿Que es un funnel de ventas?
 
-
+Un embudo de ventas es una representacion visual de la fase del proceso de venta, es decir las etapas que el cliente pasa  desde el conocimiento hacia  la compra , uno conocido es el modelo AIDA  awareness => interest => desire => Actiom
 
 G.	¿Qué significa Customer Experience?
 
-
+Es la experiencia que el usuario se genero, imagen mental a travez de sensaciones y emociones que percibio durante y despues de la compra
 
 H.	¿Qué significa omnicanalidad?
 
-
+es la estrategia de comunicacion para mantener el contacto con Prospects y clientes en diversos canales (redes sociales, web, email,etc..) entontrando una interaccion unificada de los diferentes canales
 
 I.	¿Qué significa que un negocio sea B2B?
-
+Business to Business es el negocio de empresa a empresa , por lo cual la forma de presentar el producto sera distina al cliente, no sera a un consumidor final, en este segmento se suele presentar el producto dejando de lado emociones , el mercado ya posee conocimiento, las negociaciones son mas prolongadas, es importante estableceer relaciones durareras ya que el mercado es mas chico
 
 
 J.	¿Qué significa que un negocio sea B2C?
 
-
+Business to customer es el negocio empresa a cliente , aca la cantidad de clientes es mayor , se evocan las emociones en los clientes, el proceso de compra debe ser rapido , se utilizan publicidades para la construccion de la imagen .
 
 K.	¿Qué es un KPI?
 
