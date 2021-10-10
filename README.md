@@ -4,6 +4,10 @@
        <br> <br>
    </h1> 
 
+# `EJERCICIO 1`
+
+Contaba ya con Vs Code , Git , este Readme fue commiteado desde Vs Code
+
 # `EJERCICIO 2`
 
 1 _http (hipertext transfer Protocol) es un protocolo de transferencia de datos , donde un cliente realiza una "peticion" y un servidor envia le Respuesta
