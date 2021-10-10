@@ -253,28 +253,28 @@ J.	¿Qué significa que un negocio sea B2C?
 Business to customer es el negocio empresa a cliente , aca la cantidad de clientes es mayor , se evocan las emociones en los clientes, el proceso de compra debe ser rapido , se utilizan publicidades para la construccion de la imagen .
 
 K.	¿Qué es un KPI?
-
-
+El key Perfomance Indicator son indicadores de clave de desempenio, son metricas que evaluan la eficacia de los pasos realizados en el negocio ,con el fin de la retroalimentacion y mejora del proceso interno.
 
 L.	¿Qué es una API y en qué se diferencia de una Rest API?
 
-
+Rest es un tipo de arquitectura web que determina como usar el protocolo HTTP y las URL para estructurar un API, es decir que estructura el comportamiento de CLientes y sevidores, API es un conjunto de protocolos implementados para establecer comunicacion entre distintos componentes de Software, unos esjemplos serian el servicio de google Maps,  la integracion de Videos de Youtube a paginas web
 
 M.	¿Qué es un Proceso Batch?
 
-
+El Proceso en lotes o batch, no necesita de la interaccion con el usuario, es el procesamiento de grandes volumenes de datos y trabajos repetitivos, que hacerlo manualmente seria tedioso.
+ejemplos son el renderizado, el procesamiento de las transacciones del movimiento en una tarjeta de credito , que no es perceptible el gasto sino hasta 2 semanas despues , donde el batch sucede y se procesan todos los datos en un momento "mas" oportuno.
 
 N.	¿Qué es Kanban?
 
-
+kanban es un sistema que reduce la "procrastinacion" en todas las areas de la empresa , es un sistema de gestion  , control de inventario y flujo de componentes, basadas en referencias visuales donde se utilizan papeles de colores para facilitar la comunicacion de los funcionarios ante la facilidad de interpretacion  de los datos por parte de estos. En el area de produccion podemos clasificar 3 etapas " -To do   -Doing   -Done " , en un metodo practico se trazaria en una pizarra blanca 3 lineas verticales, con las inscripciones mencionadas anteriormente como titulo, y los "Post-its" que son las tareas irian anotadas en cada columna .
 
 O.	¿Qué es un ERP? 
 
-
+Enterprise Resource Planning  ayuda a las organizaciones  a gestionar de manera integral todas o gran parte de sus Areas. Es  un unico programa que centraliza los multiples modulos que pueda tener , es decir tiene acceso a base de datos desentralizadas, este sistema da respuestas rapidas a los clientes, permite un manejo eficiente de la informacion minimizando costes
 
 P.	¿Salesforce es un ERP?
 
-
+SalesForce es un ERP, por que permite de la plataforma configurar triggers , multiples funcionalidades que gestionen envios de correos o otras acciones de otros modulos , tratando asi de ser un sistema integrado avanzado de CMR, que facilite el trabajo no solo a la empresa sino tambien a sus clientes.
 
 
 
