@@ -121,6 +121,7 @@ Los articles son documentos con informacion como porejemplo como restaurar un pr
 
 # `EJERCICIO 6` 
 
+'en desarrollo'
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
