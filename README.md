@@ -20,7 +20,7 @@ Contaba ya con Vs Code , Git , este Readme fue commiteado desde Vs Code
 
 5_el response code es la respuesta que se obtiene al solicitar al realizar alguna peticion y pueden ser varias , por ejemplo error en el servidor,en los clientes, respuestas informativas y sastifactorias , etc... existe una lista grande con codigos correspondientes a cada caso , de manera organizada
 
-6_En el metodo Get se recuperan datos por medio de la URL, en el Post no sino que se trabaja en el servidor, por ejemplo en el caso de las password,un formulario por get podría revelar nuestra contrasenia.
+6_En el metodo Get se recuperan datos por medio de la URL, en el Post no sino que se trabaja en el servidor, por ejemplo en el caso de las password,un formulario por get podría revelar nuestra contrasenia. el Metodo get es para solicitudes a servidores y obtener informacion solicitada , es un metodo del protocolo HTTP
 
 7_utiliza el metodo get que es solo lectura , y no son modificados del lado del servidor
 
