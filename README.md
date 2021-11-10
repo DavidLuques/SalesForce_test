@@ -1,7 +1,7 @@
    <h1 align="center">
 
    `RESOLUCION DE ACTIVIDADES PROPUESTAS EN : SALESFORCE🚀`
-       <br> <br>
+       <br>
    </h1> 
 
 # `EJERCICIO 1`
